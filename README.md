@@ -4,9 +4,9 @@ This is a complete test
 
 >Testing Markdown
 
--Can test something
--Can also test something
--can also test something while testing something
+- Can test something
+- Can also test something
+- can also test something while testing something
 
 - [x] Testing
 - [ ] Testing 2
